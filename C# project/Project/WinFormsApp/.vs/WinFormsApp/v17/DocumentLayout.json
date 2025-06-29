@@ -1,0 +1,417 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|d:\\c# project\\alluidone\\project\\winformsapp\\winformsapp\\catagoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\catagoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|d:\\c# project\\alluidone\\project\\winformsapp\\winformsapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|d:\\c# project\\alluidone\\project\\winformsapp\\winformsapp\\managesuppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\managesuppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|d:\\c# project\\alluidone\\project\\winformsapp\\winformsapp\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|d:\\c# project\\alluidone\\project\\winformsapp\\winformsapp\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\customermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\catagoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\catagoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\managesuppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\managesuppliersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\recordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\recordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\manageproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\manageproductsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\admindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\admindetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\supplierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\adminlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\smartkroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\smartkroy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\houseproductuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\houseproductuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\pcpartsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\pcpartsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\clothesuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\clothesuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\supplierloginafter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\supplierloginafter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\supplier_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\supplier_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\homeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\homeuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\winformsapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30541D39-5C96-4CB4-AAFF-6D50B7C99A7E}|WinFormsApp\\WinFormsApp.csproj|solutionrelative:winformsapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SmartKroy.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\SmartKroy.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\SmartKroy.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\SmartKroy.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\SmartKroy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:52:27.369Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\LoginForm.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T14:27:45.37Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminLogin.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\AdminLogin.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\AdminLogin.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\AdminLogin.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\AdminLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T04:54:39.952Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\AdminDashboard.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:26:52.894Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDetails.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\AdminDetails.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\AdminDetails.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\AdminDetails.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\AdminDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T14:01:57.629Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ManageProductsForm.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\ManageProductsForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\ManageProductsForm.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\ManageProductsForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\ManageProductsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T15:19:30.739Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeUser.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\HomeUser.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\HomeUser.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\HomeUser.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\HomeUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T18:20:57.394Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PCPartsUser.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\PCPartsUser.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\PCPartsUser.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\PCPartsUser.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\PCPartsUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:49:56.149Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HouseProductUser.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\HouseProductUser.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\HouseProductUser.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\HouseProductUser.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\HouseProductUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T07:16:24.644Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClothesUser.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\ClothesUser.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\ClothesUser.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\ClothesUser.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\ClothesUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T08:39:57.422Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Supplier_login.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\Supplier_login.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Supplier_login.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\Supplier_login.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\Supplier_login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:37:57.89Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SupplierForm.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\SupplierForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\SupplierForm.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\SupplierForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\SupplierForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:37:54.965Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SupplierLoginAfter.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\SupplierLoginAfter.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\SupplierLoginAfter.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\SupplierLoginAfter.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\SupplierLoginAfter.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:51:09.145Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ManageSuppliersForm.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\ManageSuppliersForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\ManageSuppliersForm.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\ManageSuppliersForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\ManageSuppliersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T08:18:27.356Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CatagoryForm.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\CatagoryForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\CatagoryForm.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\CatagoryForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\CatagoryForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T17:44:43.205Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RecordForm.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\RecordForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\RecordForm.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\RecordForm.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\RecordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T19:12:38.306Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\Cart.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\Cart.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\Cart.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\Cart.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T20:06:09.778Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateAccount.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\CreateAccount.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\CreateAccount.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\CreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T18:58:22.7Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "HomePage.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\HomePage.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\HomePage.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\HomePage.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\HomePage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T11:38:16.848Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "customerManagement.cs [Design]",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\customerManagement.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\customerManagement.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\customerManagement.cs [Design]",
+              "RelativeToolTip": "WinFormsApp\\customerManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T19:20:49.847Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\AdminDashboard.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\AdminDashboard.cs",
+              "RelativeToolTip": "WinFormsApp\\AdminDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T05:09:48.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CatagoryForm.cs",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\CatagoryForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\CatagoryForm.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\CatagoryForm.cs",
+              "RelativeToolTip": "WinFormsApp\\CatagoryForm.cs",
+              "ViewState": "AgIAABgBAAAAAAAAAAAowDQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:08:31.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageSuppliersForm.cs",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\ManageSuppliersForm.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\ManageSuppliersForm.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\ManageSuppliersForm.cs",
+              "RelativeToolTip": "WinFormsApp\\ManageSuppliersForm.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:01:19.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "WinFormsApp\\CreateAccount.cs",
+              "ToolTip": "D:\\C# project\\AllUIDone\\Project\\WinFormsApp\\WinFormsApp\\CreateAccount.cs",
+              "RelativeToolTip": "WinFormsApp\\CreateAccount.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwKIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T03:26:54.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
